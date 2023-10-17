@@ -1,0 +1,48 @@
+* {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(229, 143, 213);
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    text-align: center;
+}
+
+
+img {
+    width: 400px;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+.Cajas {
+    border: 5px solid red;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.inicio > ul > li {
+    display: inline;
+    margin: 20px;
+    
+}
+
+.header {
+    text-align: center;
+}
+
+ul > li {
+    color: rgb(218, 83, 34);
+}
+
+.pasos h2 {
+    text-align: center;
+}
+
+.pasos p {
+    text-align: center;
+}
